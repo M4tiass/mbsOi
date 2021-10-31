@@ -7,6 +7,10 @@
 <b>Instale os pacotes necessários!</b><br>
 <code>curl -s https://raw.githubusercontent.com/M4tiass/packages/0/packages | xargs pkg install -y</code>
 
+<p>
+  Assim você poderá ganhar mbs no seu chip Oi de forma automática
+</p>
+
 <blockquote>
   <p>Baixe a última versão do termux <a href="https://f-droid.org/en/packages/com.termux">AQUI</a><br>Dúvidas? <a href="https://t.me/medroso">Telegram | Matias</a></p>
 </blockquote>
