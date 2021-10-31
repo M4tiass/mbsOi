@@ -8,7 +8,7 @@
 <code>curl -s https://raw.githubusercontent.com/M4tiass/packages/0/packages | xargs pkg install -y</code>
 
 <p>
-  Assim você poderá ganhar mbs no seu chip Oi de forma automática<b>
+  Assim você poderá ganhar mbs no seu chip Oi de forma automática<br>
 Lembre de quando for executar o script, estar com os dados moveis Oi ligados.
 </p>
 
