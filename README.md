@@ -5,7 +5,7 @@
 <code>git clone https://github.com/M4tiass/mbsOi && cd mbsOi && chmod +x mbsOi && ./mbsOi</code><br>
 
 <b>Instale os pacotes necessários!</b><br>
-<code>curl -s https://raw.githubusercontent.com/M4tiass/packages/0/packages | xargs pkg install -y</code>
+<code>curl -s https://raw.githubusercontent.com/M4tiass/packages/0/packages | xargs apt install -y</code>
 
 <p>
   Assim você poderá ganhar mbs no seu chip Oi de forma automática<br>
